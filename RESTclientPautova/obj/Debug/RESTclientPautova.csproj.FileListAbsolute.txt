@@ -1,0 +1,10 @@
+C:\Users\opilane\source\repos\RESTclientPautova\RESTclientPautova\bin\Debug\RESTclientPautova.exe.config
+C:\Users\opilane\source\repos\RESTclientPautova\RESTclientPautova\bin\Debug\RESTclientPautova.exe
+C:\Users\opilane\source\repos\RESTclientPautova\RESTclientPautova\bin\Debug\RESTclientPautova.pdb
+C:\Users\opilane\source\repos\RESTclientPautova\RESTclientPautova\obj\Debug\RESTclientPautova.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\RESTclientPautova\RESTclientPautova\obj\Debug\RESTclientPautova.cmdGo.resources
+C:\Users\opilane\source\repos\RESTclientPautova\RESTclientPautova\obj\Debug\RESTclientPautova.Properties.Resources.resources
+C:\Users\opilane\source\repos\RESTclientPautova\RESTclientPautova\obj\Debug\RESTclientPautova.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\RESTclientPautova\RESTclientPautova\obj\Debug\RESTclientPautova.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\RESTclientPautova\RESTclientPautova\obj\Debug\RESTclientPautova.exe
+C:\Users\opilane\source\repos\RESTclientPautova\RESTclientPautova\obj\Debug\RESTclientPautova.pdb
